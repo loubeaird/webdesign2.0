@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {margin-top: 0;
+  }
+.top-container {background-color: #E4F9F5;}
+
+.mountain {width: 25%;}
+.lou {width: 20%;}
+.middle-container {background-color: white;}
